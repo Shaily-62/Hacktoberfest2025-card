@@ -6,7 +6,11 @@
     "bio": "Building beautiful things for the web!",
     "github_profile_url": "https://github.com/dsawithaditi",
     "project_netlify_link": "https://aditi-profile-card.netlify.app/",
-    "tags": ["minimalist", "animation", "light-theme"]
+    "tags": [
+      "minimalist",
+      "animation",
+      "light-theme"
+    ]
   },
   {
     "name": "Md Aarzoo Islam",
@@ -15,7 +19,11 @@
     "bio": "Building beautiful things for the web!",
     "github_profile_url": "https://github.com/withaarzoo",
     "project_netlify_link": "https://aarzoo-profile-card.netlify.app/",
-    "tags": ["minimalist", "animation", "dark-theme"]
+    "tags": [
+      "minimalist",
+      "animation",
+      "dark-theme"
+    ]
   },
   {
     "name": "Nusrat Jahan",
@@ -24,7 +32,10 @@
     "bio": "Frontend developer focused on clean code, pixel-perfect UIs, and seamless user experiences.",
     "github_profile_url": "https://github.com/nusrat80",
     "project_netlify_link": "https://nusrat-profile-card.netlify.app/",
-    "tags": ["minimalist", "light-theme"]
+    "tags": [
+      "minimalist",
+      "light-theme"
+    ]
   },
   {
     "name": "Rakesh Sharma",
@@ -33,16 +44,23 @@
     "bio": "As a Software Engineer at Paytm, I'm on a mission to simplify financial services for everyone. I architect and build the technology that brings seamless payments, banking, and commerce to the fingertips of millions, driving true financial inclusion in India.",
     "github_profile_url": "https://github.com/rakesh-dev-07",
     "project_netlify_link": "https://rakesh-profile-card.netlify.app/",
-    "tags": ["minimalist", "light-theme"]
+    "tags": [
+      "minimalist",
+      "light-theme"
+    ]
   },
   {
     "name": "Ritwik Tat",
     "occupation": "Full Stack Developer",
     "place": "Maharashtra",
     "bio": "Passionate about crafting seamless web experiences and turning ideas into reality through code.",
-    "github_profile_url":"https://github.com/ritwik1709",
+    "github_profile_url": "https://github.com/ritwik1709",
     "project_netlify_link": "https://ritwik-profile-card.netlify.app/",
-    "tags":["minimalist","animation","dark-theme"]
+    "tags": [
+      "minimalist",
+      "animation",
+      "dark-theme"
+    ]
   },
   {
     "name": "rumi",
@@ -51,7 +69,10 @@
     "bio": "passionate about crafting clean code, scalable systems, and intuitive user experiences.",
     "github_profile_url": "https://github.com/rumi20",
     "project_netlify_link": "https://rumi-profile-card.netlify.app/",
-    "tags": ["animated", "light-theme"]
+    "tags": [
+      "animated",
+      "light-theme"
+    ]
   },
   {
     "name": "Soumik Nandan",
@@ -60,6 +81,23 @@
     "bio": "SEO Specialist with 3 years of experience driving organic growth and improving search visibility. Focused on the technical backbone of SEO, data analysis, and content strategy to enhance website performance and user experience.",
     "github_profile_url": "https://github.com/seobysoumik",
     "project_netlify_link": "https://soumik-profile-card.netlify.app/",
-    "tags": ["animated", "light-theme"]
+    "tags": [
+      "animated",
+      "light-theme"
+    ]
+  },
+  {
+    "name": "Shaily Gupta",
+    "occupation": "Frontend Developer",
+    "place": "Mumbai, India",
+    "bio": "React & JavaScript enthusiast building interactive web experiences!",
+    "github_profile_url": "https://github.com/Shaily-62",
+    "project_netlify_link": "https://shaily-profile-card.netlify.app/",
+    "tags": [
+      "minimalist",
+      "techy",
+      "animation",
+      "dark-theme"
+    ]
   }
 ]
